@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://business.tabtasker.com" target="_blank" rel="noopener noreferrer">
-    <img width="96" src="icon.png" alt="TabTasker Business">
+    <img width="112" src="icon.png" alt="TabTasker Business">
   </a>
 </p>
 <h1 align="center">TabTasker Business</h1>
