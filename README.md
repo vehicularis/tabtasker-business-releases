@@ -18,9 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vehicularis/tabtasker-business-releases/releases/latest"><img src="https://img.shields.io/github/v/release/vehicularis/tabtasker-business-releases?label=release" alt="Latest release"></a>
-  <img src="https://img.shields.io/badge/macOS-13%2B%20%C2%B7%20Apple%20silicon-111111?logo=apple" alt="macOS 13 or later, Apple silicon">
-  <a href="https://apps.microsoft.com/detail/9MVBXHSCJXC4"><img src="https://img.shields.io/badge/Windows-10%2B%20%C2%B7%2064--bit-111111" alt="Windows 10 or later, 64-bit, from the Microsoft Store"></a>
+  <img src="badges/macos.svg" alt="macOS 13 or later, Apple silicon">
+  <a href="https://apps.microsoft.com/detail/9MVBXHSCJXC4"><img src="badges/windows.svg" alt="Windows 10 or later, 64-bit, from the Microsoft Store"></a>
 </p>
 
 This repository is where the Mac app is published. Each release has the DMG you install, the update the
